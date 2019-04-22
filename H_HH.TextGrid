@@ -1,0 +1,115 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.56562358276644 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 4.56562358276644 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7868117913832198 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.7868117913832198 
+            xmax = 0.8354874909876085 
+            text = "sounding" 
+        intervals [3]:
+            xmin = 0.8354874909876085 
+            xmax = 1.2598254176268215 
+            text = "Minnie" 
+        intervals [4]:
+            xmin = 1.2598254176268215 
+            xmax = 2.0023498218112925 
+            text = "Maloney" 
+        intervals [5]:
+            xmin = 2.0023498218112925 
+            xmax = 2.1924935299956503 
+            text = "made" 
+        intervals [6]:
+            xmin = 2.1924935299956503 
+            xmax = 2.3002416313001195 
+            text = "her" 
+        intervals [7]:
+            xmin = 2.3002416313001195 
+            xmax = 2.305640582117292 
+            text = "" 
+        intervals [8]:
+            xmin = 2.305640582117292 
+            xmax = 2.655682040039728 
+            text = "mother" 
+        intervals [9]:
+            xmin = 2.655682040039728 
+            xmax = 3.0919655962908807 
+            text = "many" 
+        intervals [10]:
+            xmin = 3.0919655962908807 
+            xmax = 3.9948117913832197 
+            text = "millions" 
+        intervals [11]:
+            xmin = 3.9948117913832197 
+            xmax = 4.56562358276644 
+            text = "silent" 
+    item [2]:
+        class = "TextTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.56562358276644 
+        points: size = 7 
+        points [1]:
+            number = 1.2598254176268215 
+            mark = "1" 
+        points [2]:
+            number = 2.0023498218112925 
+            mark = "1" 
+        points [3]:
+            number = 2.1924935299956503 
+            mark = "1-" 
+        points [4]:
+            number = 2.305640582117292 
+            mark = "1" 
+        points [5]:
+            number = 2.655682040039728 
+            mark = "1" 
+        points [6]:
+            number = 3.0919655962908807 
+            mark = "1" 
+        points [7]:
+            number = 3.9948117913832197 
+            mark = "4" 
+    item [3]:
+        class = "TextTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.56562358276644 
+        points: size = 2 
+        points [1]:
+            number = 1.7616269996752199 
+            mark = "H* (HiF0)" 
+        points [2]:
+            number = 3.74510740697538 
+            mark = " H-H%" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.56562358276644 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.73319461173634 
+            text = "" 
+        intervals [2]:
+            xmin = 3.73319461173634 
+            xmax = 3.99527610699522 
+            text = "toneless" 
+        intervals [3]:
+            xmin = 3.99527610699522 
+            xmax = 4.56562358276644 
+            text = "" 

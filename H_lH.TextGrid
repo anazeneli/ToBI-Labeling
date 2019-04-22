@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.601904761904762 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 4.601904761904762 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7369523809523806 
+            text = "silent" 
+        intervals [2]:
+            xmin = 0.7369523809523806 
+            xmax = 0.7440028329322101 
+            text = "" 
+        intervals [3]:
+            xmin = 0.7440028329322101 
+            xmax = 1.0830844041888716 
+            text = "Minnie" 
+        intervals [4]:
+            xmin = 1.0830844041888716 
+            xmax = 1.1071335741253667 
+            text = "" 
+        intervals [5]:
+            xmin = 1.1071335741253667 
+            xmax = 1.645977860475303 
+            text = "Maloney" 
+        intervals [6]:
+            xmin = 1.645977860475303 
+            xmax = 1.6506230698403888 
+            text = "" 
+        intervals [7]:
+            xmin = 1.6506230698403888 
+            xmax = 1.9572068879360422 
+            text = "made" 
+        intervals [8]:
+            xmin = 1.9572068879360422 
+            xmax = 1.9664973066662137 
+            text = "" 
+        intervals [9]:
+            xmin = 1.9664973066662137 
+            xmax = 2.101208378253698 
+            text = "her" 
+        intervals [10]:
+            xmin = 2.101208378253698 
+            xmax = 2.1197892157140403 
+            text = "" 
+        intervals [11]:
+            xmin = 2.1197892157140403 
+            xmax = 2.482115546190722 
+            text = "mother" 
+        intervals [12]:
+            xmin = 2.482115546190722 
+            xmax = 2.4960511742859786 
+            text = "" 
+        intervals [13]:
+            xmin = 2.4960511742859786 
+            xmax = 2.863022714127746 
+            text = "many" 
+        intervals [14]:
+            xmin = 2.863022714127746 
+            xmax = 3.7223864466685925 
+            text = "millions" 
+        intervals [15]:
+            xmin = 3.7223864466685925 
+            xmax = 4.601904761904762 
+            text = "silent" 
+    item [2]:
+        class = "TextTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.601904761904762 
+        points: size = 7 
+        points [1]:
+            number = 1.1071335741253667 
+            mark = "1" 
+        points [2]:
+            number = 1.645977860475303 
+            mark = "1" 
+        points [3]:
+            number = 1.9572068879360422 
+            mark = "3" 
+        points [4]:
+            number = 2.101208378253698 
+            mark = "1" 
+        points [5]:
+            number = 2.482115546190722 
+            mark = "1" 
+        points [6]:
+            number = 2.863022714127746 
+            mark = "1" 
+        points [7]:
+            number = 3.7223864466685925 
+            mark = "4" 
+    item [3]:
+        class = "TextTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.601904761904762 
+        points: size = 3 
+        points [1]:
+            number = 1.4369434390464484 
+            mark = "H*(HiF0)" 
+        points [2]:
+            number = 3.025605041905744 
+            mark = "H*" 
+        points [3]:
+            number = 3.257865510160027 
+            mark = "L-H%" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.601904761904762 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8596574912692434 
+            text = "" 
+        intervals [2]:
+            xmin = 1.8596574912692434 
+            xmax = 1.9711425160312992 
+            text = "toneless" 
+        intervals [3]:
+            xmin = 1.9711425160312992 
+            xmax = 4.601904761904762 
+            text = "" 
